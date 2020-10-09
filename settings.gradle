@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Burdell's_List_GT"
